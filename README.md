@@ -1,2 +1,2 @@
 # JavascriptDayTwo
-ฝึกเขียน JavaScript วันที่ 1
+ฝึกเขียน JavaScript วันที่ 2
